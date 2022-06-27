@@ -7,4 +7,6 @@
 
 ## Updates on Git locally
 ### First update
+### First update on branch 1
+### First update on branch 2
 
